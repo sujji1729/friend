@@ -1,0 +1,72 @@
+.bg-container {
+    background-image: url("http://www.techicy.com/wp-content/uploads/2015/07/Friendship-Day-HD-Images-Wallpapers-Free-Download-7.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.frnd-card {
+    text-align: center;
+    background-color: transparent;
+    padding: 5px;
+    width: 280px;
+    margin-left: 450px;
+    margin-top: 230px;
+    margin-bottom: 20px;
+}
+
+.buttonn {
+    margin: 15px;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+.heading1 {
+    font-size: 17px;
+    font-family: Cursive;
+}
+
+.art-by{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    font-weight: bold;
+    
+    
+}
+.art-button{
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: aqua;
+    width: 200px;   
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.art-by-card{
+    background-color: transparent;
+    width: 220px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 850px;
+   
+}
+
+/* .wishesImgg {
+    background-size: cover;
+    height:100vh;
+} */
+
+.wishess {
+   
+    /* background-image: url("https://tse1.mm.bing.net/th?id=OIP.LuT_iWiRMU7rmRSpOFSTngHaEK&pid=Api&P=0&h=180");
+    background-size: cover; */
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+
+
+}
